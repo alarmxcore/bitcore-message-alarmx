@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib-gobyte');
+var bitcore = require('bitcore-lib-alarmx');
 bitcore.Message = require('./lib/message');
 
 module.exports = bitcore.Message;

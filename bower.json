@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-message-gobyte",
+  "name": "bitcore-message-alarmx",
   "main": "./bitcore-message.min.js",
   "version": "1.0.4",
-  "homepage": "https://github.com/gobytecoin/bitcore-message-gobyte",
+  "homepage": "https://github.com/alarmxcore/bitcore-message-alarmx",
   "authors": [
     "BitPay"
   ],
