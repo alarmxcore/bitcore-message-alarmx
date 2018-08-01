@@ -9,13 +9,13 @@ Message Verification and Signing is implemented as a separate module and you mus
 For node projects:
 
 ```bash
-npm install bitcore-message --save
+npm install bitcore-message-alarmx --save
 ```
 
 For client-side projects:
 
 ```bash
-bower install bitcore-message --save
+bower install bitcore-message-alarmx --save
 ```
 
 ## Example
