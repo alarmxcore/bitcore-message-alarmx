@@ -3,8 +3,8 @@ coverage
 node_modules
 
 npm-debug.log
-bitcore-message.js
-bitcore-message.min.js
+bitcore-message-alarmx.js
+bitcore-message-alarmx.min.js
 tests.js
 
 report
