@@ -1,6 +1,6 @@
 {
   "name": "bitcore-message-alarmx",
-  "main": "./bitcore-message-alarmx.min.js",
+  "main": "./bitcore-message.min.js",
   "version": "1.0.4",
   "homepage": "https://github.com/alarmxcore/bitcore-message-alarmx",
   "authors": [
